@@ -523,7 +523,8 @@
 				TargetAttributes = {
 					03DDE17919CE497F008029A8 = {
 						CreatedOnToolsVersion = 6.0.1;
-						DevelopmentTeam = B948MFAE5C;
+						DevelopmentTeam = JQNK74493B;
+						LastSwiftMigration = 0810;
 					};
 				};
 			};
@@ -773,6 +774,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.xxiivv.verre;
 				PRODUCT_NAME = Verreciel;
 				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 2.3;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -789,6 +791,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.xxiivv.verre;
 				PRODUCT_NAME = Verreciel;
 				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 2.3;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;

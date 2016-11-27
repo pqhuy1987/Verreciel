@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7F164BA158149B11A8179E512F9DF16F047B74E7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AFDA2A0BDDB95078DB3181004F1CAE6B46DEE04B" : 0,
+    "7F164BA158149B11A8179E512F9DF16F047B74E7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F811E44C-FE3B-44C3-BC41-43B93ED86DD8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AFDA2A0BDDB95078DB3181004F1CAE6B46DEE04B" : "lern",
+    "7F164BA158149B11A8179E512F9DF16F047B74E7" : "Verreciel\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Verreciel",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Verreciel.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pqhuy1987\/Verreciel.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7F164BA158149B11A8179E512F9DF16F047B74E7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aliceffekt\/lern.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AFDA2A0BDDB95078DB3181004F1CAE6B46DEE04B"
+    }
+  ]
+}
